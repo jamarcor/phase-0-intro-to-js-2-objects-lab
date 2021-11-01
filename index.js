@@ -1,4 +1,3 @@
-// Write your solution in this file!
 const employee = {
     name: ["Wanda"],
     streetAddress: ["Wilder ave"],
